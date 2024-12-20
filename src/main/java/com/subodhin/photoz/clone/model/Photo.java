@@ -27,11 +27,6 @@ public class Photo {
         this.fileName = fileName;
     }
 
-
-
-
-
-
     public Integer getId() {
         return id;
     }
